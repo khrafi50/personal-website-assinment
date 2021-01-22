@@ -1,0 +1,177 @@
+
+.section{
+    height: 400px;
+    padding-bottom: 200px;
+}
+/* 1st section > 1st Div */
+
+.first-section{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+}
+
+.first-div{
+    padding-left: 5%;
+}
+
+h1{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    padding-bottom: 3%;
+    margin-bottom: 0%;
+
+}
+
+.orange-highlight{
+    color: #F46060; ;
+}
+
+p{
+    text-align: justify;
+    color: gray;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 0%;
+    padding-bottom: 20px;
+}
+
+.link-button{
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-weight: 700 ;
+    padding: 20px 50px;
+    border-radius: 5px;
+    background-image: linear-gradient(82deg, rgba(88,139,204,1) 0%, rgba(126,82,180,1) 47%, rgba(204,210,228,1) 100%);
+}
+
+/* 1st section > 2nd Div */
+.second-div{
+    padding-right: 5%;
+}
+
+.iamge-div img{
+    width: 85%;
+    height:auto;
+    
+}
+/* 2nd section > 3rd Div */
+.second-section{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+}
+
+.second-section img{
+    width: 100%;
+}
+
+.third-div{
+    padding-left: 5%;
+}
+
+/* 2nd section > 4th Div */
+h2{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.fourth-div{
+    padding-left: 3%;
+}
+
+.link-button-2{
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    color: white;
+    font-weight: 700 ;
+    padding: 20px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #1e9600, #fff200, #ff0000);
+
+}
+
+/* 3rd section */
+.project{
+    background-color:mintcream;
+    height: 600px;
+    padding-bottom: 200px;
+}
+
+.project-headline{
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+.float{
+    float: left;
+    width: 370px;
+    height: 374px;
+    padding: 20px 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+}
+
+.float img{
+    width: 100%;
+}
+
+.floatbox-1{
+    margin-left: 100px;
+    margin-right: 15px;
+}
+
+.floatbox-2{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.floatbox-3{
+    margin-left: 15px;
+    margin-right: 100px;
+
+}
+
+h3{
+    font-family: Roboto, sans-serif;
+    color: #363958;
+}
+
+.float-box{
+    padding-bottom: 100px;
+    
+}
+/* 4th section */
+.work-inquiry{
+    height: 400px;   
+    background-image: url(images/inquiry.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 900px 225px;
+}
+
+.inquiry-text{
+font-family: Bebas Neue;
+color: white;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 64px;
+padding-left: 620px;
+padding-top: 180px;
+
+}
+
+
+
